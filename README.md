@@ -1,4 +1,4 @@
-##Smoking-Gun-Classification<br>
+## Smoking Gun Classification<br>
 *Sean Steinle* | *sts137@pitt.edu*
 
 **Brief**:<br>
@@ -22,9 +22,9 @@ worked on by the CALO (A Cognitive Assistant that Learns and Organizes), an orga
 is a part of the SRI (Stanford Research Institute). The data was later purchased and remodeled by researchers at MIT in the 2010's. I accessed and
 found the data through former Carnegie Mellon professor William M. Cohen's website, linked below.
 - *organization*: 
-	relative path: maildir/~lastname-firstinitial~/~email directory, as per user~
-		ex: maildir/arora-h/all_documents, maildir/arora-h/deleted_items, maildir/arora-h/discussion_threads, etc.
-	other notes: per William Cohen
+	- relative path: maildir/~lastname-firstinitial~/~email directory, as per user~
+		- ex: maildir/arora-h/all_documents, maildir/arora-h/deleted_items, maildir/arora-h/discussion_threads, etc.
+	- other notes: per William Cohen
 			'The dataset here does not include attachments, and some messages have been deleted 
 			"as part of a redaction effort due to requests from affected employees". 
 			Invalid email addresses were converted to something of the form user@enron.com whenever possible 
