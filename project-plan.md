@@ -1,4 +1,4 @@
-##Project Plan<br>
+## Project Plan<br>
 Sean Steinle | sts137@pitt.edu
 ___
 1. **cleaning/prepping data**, loading into a DF, all that jazz.
