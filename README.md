@@ -1,14 +1,14 @@
 ## Smoking Gun Classification<br>
-# *Sean Steinle* | *sts137@pitt.edu*
+*Sean Steinle* | *sts137@pitt.edu*
 
-**Brief**:<br>
+**About**:<br>
 This repository acts as my term project for LING1340: Data Science for Linguists. 
 In this project, I'll be working on building a classifier that can sort through emails to flag useful information for investigators.
 The data set that I will be training my classifier on is a set of released emails from around 150 users--mostly senior employees--at former American
 energy company Enron. These emails are significant for various different types of natural language processing, but the unique situation of these
 emails being sourced from a notoriously corrupt company allows for the domain specific training that I'm looking for.
 ___
-**Inspiration**: <br>
+**Why?**: <br>
 I was inspired to take this on when I was looking through a catalogue of large data sets. The interesting thing though, 
 is that most of these emails aren't really what you would expect out of the lore that surrounds insider trading or cooking the books. 
 They're mostly like, "my kid wants a football for christmas." But I, like most people, want the juicy stuff! So I want to make a classifier that
