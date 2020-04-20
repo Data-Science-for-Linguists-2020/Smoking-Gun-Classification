@@ -39,4 +39,4 @@ ___
 - to access the data set: http://www.cs.cmu.edu/~enron/
 ___
 **Feedback**:<br>
-- To see what others thought about my project, be sure to check out [my guestbook](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/blob/master/guestbooks/guestbook_sean.md)
+- To see what others thought about my project, be sure to check out [my guestbook](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/blob/master/guestbooks/guestbook_sean.md).
