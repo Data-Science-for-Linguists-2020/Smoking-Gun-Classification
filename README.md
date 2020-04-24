@@ -38,5 +38,9 @@ ___
 - to read more about the Enron scandal: https://en.wikipedia.org/wiki/Enron#2001_Accounting_scandals
 - to access the data set: http://www.cs.cmu.edu/~enron/
 ___
-**Feedback**:<br>
-- To see what others thought about my project, be sure to check out [my guestbook](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/blob/master/guestbooks/guestbook_sean.md).
+**Directory**
+1. [*Data Sample*](https://github.com/Data-Science-for-Linguists-2020/Smoking-Gun-Classification/tree/master/data_sample): This contains one of the folders from the Enron Corpus.
+2. [*Notebooks*](https://github.com/Data-Science-for-Linguists-2020/Smoking-Gun-Classification/tree/master/Notebooks): My code for the project, follow along chronologically!
+3. [*Pictures*](https://github.com/Data-Science-for-Linguists-2020/Smoking-Gun-Classification/tree/master/pictures): Pictures from various points in the project. Most are summarized in my [final report](https://github.com/Data-Science-for-Linguists-2020/Smoking-Gun-Classification/blob/master/Project_Details/final_report.md) or [notebooks](https://github.com/Data-Science-for-Linguists-2020/Smoking-Gun-Classification/tree/master/Notebooks).
+4. [*Project_Details*](https://github.com/Data-Science-for-Linguists-2020/Smoking-Gun-Classification/tree/master/Project_Details): Contains my presentation, progress reports, and license.
+5. *Others*: Other than that, there are some [pickles](https://github.com/Data-Science-for-Linguists-2020/Smoking-Gun-Classification/tree/master/pickles) and my [guestbook](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/blob/master/guestbooks/guestbook_sean.md)
