@@ -18,7 +18,6 @@ chronology
 ***Chronology***<br><br>
 The distribution of emails was very interesting. We know from history that Enron was very profitable from the mid-1990’s to 2001 when it went belly up. The data bears this out, as we see the vast majority of emails come in 2000 and 2001. I was a little shocked that there was not as much data from the 90’s, but it could be the small sample or maybe Enron was spinning the fastest at the turn of the millennia. The line graphs below track the number of emails in my sample across years, and then the months in 2000, 2001, and 2002 respectively.<br>
 ![Emails Sent By Year](../pictures/graphYears.png)<br>
-![Emails Sent By Year](../pictures/barYears.png)<br>
 ![Emails Sent In 2000](../pictures/graph2000.png)<br>
 ![Emails Sent In 2001](../pictures/graph2001.png)<br>
 ![Emails Sent In 2002](../pictures/graph2002.png)<br>
