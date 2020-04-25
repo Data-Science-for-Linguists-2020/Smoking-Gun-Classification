@@ -1,3 +1,4 @@
+# Smoking Gun Classifier: Final Report
 ## Background:<br>
 ***Introduction***<br>
 The Enron Corpus is a revolutionary technology in the world of Natural Language Processing. It was born out of a shocking financial scandal that occurred in mid-2001 at the financial firm Enron. A culture of overvaluing stock prices, a rather bombastic set of executives, and a habit of “cooking the books” set Enron’s stock price tumbling—from $92 in 2000 to less than $1 just under a year later. To me, the Enron Corpus represents an opportunity to understand people as they operate in their work life—albeit at a hypercompetitive company.<br>
@@ -14,7 +15,7 @@ This is the first class I’ve taken that dealt significantly with large corpora
 ## DATA EXPLORATION:<br><br>
 ***Introduction***<br><br>
 My data exploration stage was unique but very rewarding. Let’s start with rewarding. There were three main things I wanted to see in my non-machine learning data exploration—the diachronic context of the data, the ability to profile users as a result of their emails, and finally textual analysis. Finally, I limited the scope of my data exploration to a sample of 20,000 emails, as the full set would have been burdensome on my local machine.
-chronology<br>
+chronology<br><br>
 ***Chronology***<br><br>
 The distribution of emails was very interesting. We know from history that Enron was very profitable from the mid-1990’s to 2001 when it went belly up. The data bears this out, as we see the vast majority of emails come in 2000 and 2001. I was a little shocked that there was not as much data from the 90’s, but it could be the small sample or maybe Enron was spinning the fastest at the turn of the millennia. The line graphs below track the number of emails in my sample across years, and then the months in 2000, 2001, and 2002 respectively.<br>
 ![Emails Sent By Year](../pictures/graphYears.png)<br>
