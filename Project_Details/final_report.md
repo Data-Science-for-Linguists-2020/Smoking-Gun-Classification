@@ -14,7 +14,7 @@ This is the first class I’ve taken that dealt significantly with large corpora
 ## DATA EXPLORATION:<br><br>
 ***Introduction***<br><br>
 My data exploration stage was unique but very rewarding. Let’s start with rewarding. There were three main things I wanted to see in my non-machine learning data exploration—the diachronic context of the data, the ability to profile users as a result of their emails, and finally textual analysis. Finally, I limited the scope of my data exploration to a sample of 20,000 emails, as the full set would have been burdensome on my local machine.
-chronology
+chronology<br>
 ***Chronology***<br><br>
 The distribution of emails was very interesting. We know from history that Enron was very profitable from the mid-1990’s to 2001 when it went belly up. The data bears this out, as we see the vast majority of emails come in 2000 and 2001. I was a little shocked that there was not as much data from the 90’s, but it could be the small sample or maybe Enron was spinning the fastest at the turn of the millennia. The line graphs below track the number of emails in my sample across years, and then the months in 2000, 2001, and 2002 respectively.<br>
 ![Emails Sent By Year](../pictures/graphYears.png)<br>
